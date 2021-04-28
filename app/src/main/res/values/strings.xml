@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">J2homework</string>
+§    <string name="login_or_register_up">Login or register up</string>
+    <string name="username_email">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="clean_your_thoughts_nand_all_adversity_will_go_away">Clean your thoughts-\nand all adversity will go away . . .</string>
+    <string name="listen">listen</string>
+</resources>
